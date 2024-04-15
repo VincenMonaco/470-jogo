@@ -16,7 +16,7 @@
 * <a href = https://github.com/VincenMonaco/470-jogo/wiki/Descri%C3%A7%C3%A3o-das-fases> Descrição das fases 
 
 ### Wiki Músicas
-* <a href =  > Músicas que serão usadas
+* <a href = https://github.com/VincenMonaco/470-jogo/wiki/M%C3%BAsicas-que-ser%C3%A3o-usadas> Músicas que serão usadas
 
 ### Wiki Referencias
 * <a href = > Referencias para o Jogo
