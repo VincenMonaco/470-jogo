@@ -19,5 +19,5 @@
 * <a href = https://github.com/VincenMonaco/470-jogo/wiki/M%C3%BAsicas-que-ser%C3%A3o-usadas> Músicas que serão usadas
 
 ### Wiki Referencias
-* <a href = > Referencias para o Jogo
+* <a href = https://github.com/VincenMonaco/470-jogo/wiki/Referencias-para-o-Jogo> Referencias para o Jogo
 
