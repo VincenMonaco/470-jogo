@@ -10,7 +10,7 @@
 ## Lista da Wikis
 
 ### Wiki Sinopse geral
-* <a href => Sinopse geral
+* <a href = https://github.com/VincenMonaco/470-jogo/wiki/Sinopse> Sinopse geral
 
 ### Wiki Descrição das fases 
 * <a href => Descrição das fases 
