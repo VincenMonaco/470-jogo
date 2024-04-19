@@ -41,7 +41,7 @@ No Readme devem contar:
 
 ### Descrição das fases 
 
-O jogo será dividido em `5 fases`, sendo as duas primeiras desenvolvidas pela dupla Vicenzo Monaco e Cauã de Castro, outras duas pela dupla Erick Galvez e Matheus Seabra, e, por fim, a última será feita por ambas as duplas.
+O jogo será dividido em `5 fases`, sendo as duas primeiras desenvolvidas pela dupla Vicenzo Monaco e Kauã de Castro, outras duas pela dupla Erick Galvez e Matheus Seabra, e, por fim, a última será feita por ambas as duplas.
 
 *  <a href = https://github.com/VincenMonaco/470-jogo/wiki/Fase-1> 1 Fase 
 
