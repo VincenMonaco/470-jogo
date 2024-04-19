@@ -8,6 +8,27 @@
 * Vincenzo Monaco
 
 ## Descrição do Trabalho
+Criar um repositório no git hub para o projeto, no repositório deverão constar os documentos e referencias dos materiais principais do projeto, além dos scripts e assets compatíveis. Deverá ser utlizada a wiki para descrição e registro do desenvolvimento do projeto, sendo um único wiki por grupo.
+
+No Readme devem contar:
+
+• Integrantes do grupo
+
+• Duplas responsáveis por cada fase
+
+• Link das páginas da Wiki por tópico (enredo, roteiro, personagens, fases)
+
+Na wiki elaborar uma proposta de enredo do jogo apresentando:
+
+• Sinopse geral
+
+• Descrição inicial das fases contendo:
+
+• Personagens envolvidos (apenas descrição)
+
+• Música(s) de referência. As músicas devem falar sobre São Paulo, ou ser de artistas de São Paulo, ou ter significado relevante para a região da fase
+
+• Referencias para o Jogo (filmes, séries, jogos, livros)
 
 ## Lista da Wikis
 
