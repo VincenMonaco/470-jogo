@@ -32,6 +32,10 @@ No Readme devem contar:
 
 ## Lista da Wikis
 
+### Protagonista
+
+* <a href => Protagonista
+
 ### Wiki Sinopse geral
 * <a href = https://github.com/VincenMonaco/470-jogo/wiki/Sinopse> Sinopse geral
 
