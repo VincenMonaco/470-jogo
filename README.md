@@ -13,15 +13,15 @@
 * <a href = https://github.com/VincenMonaco/470-jogo/wiki/Sinopse> Sinopse geral
 
 ### Wiki Descrição das fases 
-* #### 1 Fase <a href = 
+* #### <a href = https://github.com/VincenMonaco/470-jogo/wiki/Fase-1> 1 Fase 
 
-* #### 2 Fase <a href = 
+* #### <a href = https://github.com/VincenMonaco/470-jogo/wiki/Fase-2> 2 Fase 
 
-* #### 3 Fase <a href = 
+* #### <a href = https://github.com/VincenMonaco/470-jogo/wiki/Fase-3> 3 Fase
 
-* #### 4 Fase <a href = 
+* #### <a href =https://github.com/VincenMonaco/470-jogo/wiki/Fase-4> 4 Fase 
 
-* #### 5 Fase <a href = 
+* #### <a href = https://github.com/VincenMonaco/470-jogo/wiki/Fase-5> 5 Fase 
 
 * <a href = https://github.com/VincenMonaco/470-jogo/wiki/Descri%C3%A7%C3%A3o-das-fases> Descrição das fases 
 
