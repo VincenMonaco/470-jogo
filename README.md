@@ -36,10 +36,10 @@ No Readme devem contar:
 
 * <a href = https://github.com/VincenMonaco/470-jogo/wiki/Protagonista> Protagonista
 
-### Wiki Sinopse geral
+### Sinopse geral
 * <a href = https://github.com/VincenMonaco/470-jogo/wiki/Sinopse> Sinopse geral
 
-### Wiki Descrição das fases 
+### Descrição das fases 
 
 O jogo será dividido em `5 fases`, sendo as duas primeiras desenvolvidas pela dupla Vicenzo Monaco e Cauã de Castro, outras duas pela dupla Erick Galvez e Matheus Seabra, e, por fim, a última será feita por ambas as duplas.
 
@@ -54,9 +54,9 @@ O jogo será dividido em `5 fases`, sendo as duas primeiras desenvolvidas pela d
 *  <a href = https://github.com/VincenMonaco/470-jogo/wiki/Fase-5> 5 Fase 
 
 
-### Wiki Músicas
+### Músicas
 * <a href = https://github.com/VincenMonaco/470-jogo/wiki/M%C3%BAsicas-que-ser%C3%A3o-usadas> Músicas que serão usadas
 
-### Wiki Referencias
+### Referencias
 * <a href = https://github.com/VincenMonaco/470-jogo/wiki/Referencias-para-o-Jogo> Referencias para o Jogo
 
