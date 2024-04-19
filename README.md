@@ -12,23 +12,23 @@ Criar um repositório no git hub para o projeto, no repositório deverão consta
 
 No Readme devem contar:
 
-• Integrantes do grupo
+* Integrantes do grupo
 
-• Duplas responsáveis por cada fase
+* Duplas responsáveis por cada fase
 
-• Link das páginas da Wiki por tópico (enredo, roteiro, personagens, fases)
+* Link das páginas da Wiki por tópico (enredo, roteiro, personagens, fases)
 
-Na wiki elaborar uma proposta de enredo do jogo apresentando:
+* Na wiki elaborar uma proposta de enredo do jogo apresentando:
 
-• Sinopse geral
+* Sinopse geral
 
-• Descrição inicial das fases contendo:
+* Descrição inicial das fases contendo:
 
-• Personagens envolvidos (apenas descrição)
+* Personagens envolvidos (apenas descrição)
 
-• Música(s) de referência. As músicas devem falar sobre São Paulo, ou ser de artistas de São Paulo, ou ter significado relevante para a região da fase
+* Música(s) de referência. As músicas devem falar sobre São Paulo, ou ser de artistas de São Paulo, ou ter significado relevante para a região da fase
 
-• Referencias para o Jogo (filmes, séries, jogos, livros)
+* Referencias para o Jogo (filmes, séries, jogos, livros)
 
 ## Lista da Wikis
 
