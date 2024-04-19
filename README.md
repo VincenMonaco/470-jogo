@@ -26,7 +26,6 @@ O jogo será dividido em `5 fases`, sendo as duas primeiras desenvolvidas pela d
 
 * #### <a href = https://github.com/VincenMonaco/470-jogo/wiki/Fase-5> 5 Fase 
 
-* <a href = https://github.com/VincenMonaco/470-jogo/wiki/Descri%C3%A7%C3%A3o-das-fases> Descrição das fases 
 
 ### Wiki Músicas
 * <a href = https://github.com/VincenMonaco/470-jogo/wiki/M%C3%BAsicas-que-ser%C3%A3o-usadas> Músicas que serão usadas
